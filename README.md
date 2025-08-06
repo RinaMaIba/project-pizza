@@ -45,7 +45,7 @@ Aplicación web que presenta un catalogo de pizzas con funcionalidad de carrito 
     
 ## Authors
 
-- [@TomasCode](https://www.github.com/TomasCode-ar)
+- [@RinaMaIba](https://www.github.com/TomasCode-ar)
 
 
 ## License
